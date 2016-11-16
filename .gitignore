@@ -1,0 +1,7 @@
+.idea/*
+WebApp.iml
+target/*
+.idea/
+pom.xml
+src/
+target/
