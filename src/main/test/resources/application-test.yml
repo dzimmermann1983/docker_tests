@@ -1,0 +1,5 @@
+dbPort: 5433
+dbHost: localhost
+spring.datasource.url: jdbc:postgresql://${dbHost}:${dbPort}/test
+spring.datasource.username: testUser
+spring.datasource.password: 1234
